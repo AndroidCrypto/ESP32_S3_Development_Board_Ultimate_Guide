@@ -9,11 +9,7 @@ a) **Esp32_S3_DevBoard_SSD1306_Dht11_v02**: The sketch is working with the onboa
 
 b) **Esp32_S3_DevBoard_SSD1306_Potentiometer_v02**: The sketch is working with the onboard Trimpot Trimmer Potentiometer and displays the measured value from the "Analog Digital Converter ("ADC") that results on rotating the knob of the Potentiometer on the OLED SSD1306 display.
 
-c) **Esp32_S3_DevBoard_SSD1306_Leds_v2**: 
-
-d) **Esp32_S3_DevBoard_Tft_Ili9341_DisplayInfo_Touch_v01**: The sketch prints out some (static) informations of the connected TFT Display on the display. Additionally the Touch capability is activated, and when you touch the display's surface a white circle is displayed at that point. A simple calibration method is provided.
-
-e) **Esp32_S3_DevBoard_Tft_Ili9341_Dht11_Touch_v01**: The sketch prints out the temperature and humidity 
+c) **Esp32_S3_DevBoard_SSD1306_Leds_v2**: light the ESP32-S3 Development Board onboard RGB LED in Red, Green, Blue, White, Rainbow mode and off. Displays the color on an 0.96 inch OLED SSD1306 display
 
 ````
 Wiring of the TFT Display connector from left to right to the ESP32-S3:
