@@ -1,7 +1,7 @@
 # ESP32-S3 Development Board Ultimate Guide
 The repository contains informations and sketches that work with a Development Board that comes with pre-wired TFT Display and OLED Display connectors, a DHT11 temperature and humidity sensor and a 10K Ohm potentiometer
 
-This is the accompanying repository for my article "The Ultimate Guide to the ESP32-S3 Development Board Kit with 2.8 Inch Display" available here: 
+This is the accompanying repository for my article "The Ultimate Guide to the ESP32-S3 Development Board Kit with 2.8 Inch Display" available here: https://medium.com/@androidcrypto/the-ultimate-guide-to-the-esp32-s3-expansion-board-kit-with-2-8-inch-touch-display-8fbb68760a1c
 
 I'm providing these sketches for testing the board and components:
 
