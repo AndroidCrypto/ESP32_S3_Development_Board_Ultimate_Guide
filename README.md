@@ -11,6 +11,8 @@ b) **Esp32_S3_DevBoard_SSD1306_Potentiometer_v02**: The sketch is working with t
 
 c) **Esp32_S3_DevBoard_SSD1306_Leds_v2**: light the ESP32-S3 Development Board onboard RGB LED in Red, Green, Blue, White, Rainbow mode and off. Displays the color on an 0.96 inch OLED SSD1306 display. [Link to short tutorial](https://medium.com/@androidcrypto/esp32-s3-expansion-board-kit-with-oled-ssd1306-display-and-onboard-rgb-led-6eab85a926bb)
 
+## Overview of internal pin settings 
+
 ````
 Wiring of the TFT Display connector from left to right to the ESP32-S3:
 -- Display --
