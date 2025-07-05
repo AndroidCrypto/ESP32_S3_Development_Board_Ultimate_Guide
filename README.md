@@ -5,11 +5,11 @@ This is the accompanying repository for my article "The Ultimate Guide to the ES
 
 I'm providing these sketches for testing the board and components:
 
-a) **Esp32_S3_DevBoard_SSD1306_Dht11_v02**: The sketch is working with the onboard DHT11 environment sensor and displays the current temperature and humidity on the OLED SSD1306 display.
+a) **Esp32_S3_DevBoard_SSD1306_Dht11_v02**: The sketch is working with the onboard DHT11 environment sensor and displays the current temperature and humidity on the OLED SSD1306 display. [Link to short tutorial](https://medium.com/@androidcrypto/esp32-s3-expansion-board-kit-with-oled-ssd1306-display-and-onboard-dht11-environment-sensor-4e267486d73b)
 
-b) **Esp32_S3_DevBoard_SSD1306_Potentiometer_v02**: The sketch is working with the onboard Trimpot Trimmer Potentiometer and displays the measured value from the "Analog Digital Converter ("ADC") that results on rotating the knob of the Potentiometer on the OLED SSD1306 display.
+b) **Esp32_S3_DevBoard_SSD1306_Potentiometer_v02**: The sketch is working with the onboard Trimpot Trimmer Potentiometer and displays the measured value from the "Analog Digital Converter ("ADC") that results on rotating the knob of the Potentiometer on the OLED SSD1306 display. [Link to short tutorial](https://medium.com/@androidcrypto/esp32-s3-expansion-board-kit-with-oled-ssd1306-display-and-onboard-10-kilo-ohm-trimpot-trimmer-3021703de8f6)
 
-c) **Esp32_S3_DevBoard_SSD1306_Leds_v2**: light the ESP32-S3 Development Board onboard RGB LED in Red, Green, Blue, White, Rainbow mode and off. Displays the color on an 0.96 inch OLED SSD1306 display
+c) **Esp32_S3_DevBoard_SSD1306_Leds_v2**: light the ESP32-S3 Development Board onboard RGB LED in Red, Green, Blue, White, Rainbow mode and off. Displays the color on an 0.96 inch OLED SSD1306 display. [Link to short tutorial](https://medium.com/@androidcrypto/esp32-s3-expansion-board-kit-with-oled-ssd1306-display-and-onboard-rgb-led-6eab85a926bb)
 
 ````
 Wiring of the TFT Display connector from left to right to the ESP32-S3:
