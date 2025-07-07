@@ -11,9 +11,9 @@ b) **Esp32_S3_DevBoard_SSD1306_Potentiometer_v02**: The sketch is working with t
 
 c) **Esp32_S3_DevBoard_SSD1306_Leds_v2**: light the ESP32-S3 Development Board onboard RGB LED in Red, Green, Blue, White, Rainbow mode and off. Displays the color on an 0.96 inch OLED SSD1306 display. [Link to short tutorial](https://medium.com/@androidcrypto/esp32-s3-expansion-board-kit-with-oled-ssd1306-display-and-onboard-rgb-led-6eab85a926bb)
 
-d) **Esp32_S3_DevBoard_Tft_Ili9341_TouchCalibration_v02**: calibrate the TFT display, driven by an ILI9341 display with touch surface. Link to tutorial
+d) **Esp32_S3_DevBoard_Tft_Ili9341_TouchCalibration_v02**: calibrate the TFT display, driven by an ILI9341 display with touch surface. [Link to short tutorial](https://medium.com/@androidcrypto/esp32-s3-expansion-board-with-2-8-inch-ili9341-tft-display-with-touch-surface-calibration-9baa7df554ac)
 
-e) **ESP32-S3 Expansion Board with 2.8 inch ILI9341 TFT Display with Touch Surface, DHT11 sensor and RGB on-/off toggle**: measures the temperature and humidity with onboard DHT11, display the data on Analog Meters and draw a 'virtual' (greem) rectangle on the TFT display. Touch to this area toggles the onboard RGB LED on and off.  Link to tutorial
+e) **ESP32-S3 Expansion Board with 2.8 inch ILI9341 TFT Display with Touch Surface, DHT11 sensor and RGB on-/off toggle**: measures the temperature and humidity with onboard DHT11, display the data on Analog Meters and draw a 'virtual' (greem) rectangle on the TFT display. Touch to this area toggles the onboard RGB LED on and off.  [Link to short tutorial](https://medium.com/@androidcrypto/esp32-s3-expansion-board-with-2-8-37af6b08ca46)
 
 ## Overview of internal pin settings 
 
