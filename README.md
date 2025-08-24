@@ -18,7 +18,7 @@ e) **ESP32-S3 Expansion Board with 2.8 inch ILI9341 TFT Display with Touch Surfa
 ## Overview of internal pin settings 
 
 ````
-Wiring of the TFT Display connector from left to right to the ESP32-S3:
+Wiring of the TFT Display connector from right to left to the ESP32-S3:
 -- Display --
 VCC   3.3 Volts
 GND   GND
